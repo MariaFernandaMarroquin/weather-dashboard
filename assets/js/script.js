@@ -1,5 +1,5 @@
-var openWeatherURL = "http://api.openweathermap.org/data/2.5/forecast?"
-var coordinatesURL = "http://api.openweathermap.org/geo/1.0/direct?q="
+var openWeatherURL = "https://api.openweathermap.org/data/2.5/forecast?"
+var coordinatesURL = "https://api.openweathermap.org/geo/1.0/direct?q="
 var iconURL = "https://openweathermap.org/img/wn/"
 var apiKey = "f3dba74b10e97d17df14938e32c71b69";
 var searchButton = document.querySelector("#search-btn");
