@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+}
+
+header {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color: lightblue;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+h4 {
+    font-size: 30px;
+    margin-bottom: 20;
+}
+.custom-hover:hover {
+    background-color: #05397f;
+    color: lightblue;
+    font-weight: 500;
+}
+
+.weather-info {
+    border-width: 1px;
+    border-style: solid;
+    border-color: #05397f;
+    border-radius: 10px;
+    padding: 10px;
+    height: fit-content;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.background {
+    background-color: #05397f;
+    color: lightblue;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #05397f;
+}
+
+.card-footer {
+    height: fit-content;
+}
+
+.search-history{
+    background-color: #c8c8c8;
+    color: #7a7a7a;
+    border-style: solid;
+    border-color:#c8c8c8;
+    margin-bottom: 5px;
+}
+
+.search-history:hover{
+    background-color: #c8c8c8;
+    color: #05397f;
+    border-color: #c8c8c8;
+}
+
+#search-btn{
+    margin-bottom: 20px;
+}
+
