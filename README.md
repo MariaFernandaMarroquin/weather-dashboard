@@ -26,7 +26,7 @@ Lastest searches made by the user
 ![Latest searches displayed](./assets/mockup-3.png)
 
 
-Deployed application: 
+Deployed application: https://mariafernandamarroquin.github.io/weather-dashboard/
 
 GitHub Repository: https://github.com/MariaFernandaMarroquin/weather-dashboard
 
